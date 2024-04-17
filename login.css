@@ -1,0 +1,15 @@
+h1 {
+    color: darkred; 
+    text-align: center;
+}
+
+.login_inputs{ /*class*/
+    font-size: 25px;
+}
+
+#btn_login{
+    font-size: 30px; 
+    width: 100px; 
+    height: 30px;
+}
+
